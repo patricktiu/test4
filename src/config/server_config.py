@@ -10,7 +10,7 @@ NodeName=AdminControl.getNode()
 # The following variables are used to replace sensitive data in the configuration for the application.
 # The values for these variables were not collected because the includeSensitiveData option was not specified.
 # ============================================================
-wasinstall_a1CellManager01_db2_password_1=''
+wasinstall_a1CellManager01_db2_password_1='passw0rd'
 # ============================================================
 
 print 'Starting Creating JVM Properties'
